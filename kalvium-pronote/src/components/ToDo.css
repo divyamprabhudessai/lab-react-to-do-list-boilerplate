@@ -1,0 +1,40 @@
+*{
+    font-weight: 600;
+}
+.but{
+    border: white solid 1px;
+}
+
+button{
+    padding: 5px;
+    border: white solid 1px;
+}
+.buttons{
+   
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    row-gap: 3vw;
+}
+
+#add{
+    height:auto;
+    text-align: center;
+    margin-left: 1vw;
+    border: white solid 1px;
+    
+}
+#enter{
+   height: auto;
+   width: auto;
+}
+
+h1{
+    text-align: center;
+    text-shadow: white 2px 2px 4px;
+    position: sticky;
+}
